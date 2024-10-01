@@ -1,5 +1,5 @@
 # 👽MX28-AT-Documentation👽
-## **Repositori ini berisi kode-kode terkait servo dynamixel MX28-AT.**
+## **Repositori ini berisi kode-kode terkait servo Dynamixel MX28-AT.**
 
 ### Berikut adalah deskripsi masing-masing folder yang tersedia:
 + id
