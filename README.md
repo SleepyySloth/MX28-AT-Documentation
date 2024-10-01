@@ -18,7 +18,7 @@
   - Fungsinya mirip dengan dynamixel wizard.
 
 >[!NOTE]
-> - Board dan pin yang digunakan disesuaikan di bagian [#if define]
+> - Board dan pin yang digunakan disesuaikan di bagian ```#if define```
 > - Perhatikan voltage yang digunakan untuk menggerakan servo. Servo bekerja di 12V, sedangkan komunikasi datanya di 5V.
 > - Board yang eligible: openCM 9.04, OpenCR, OpenRB-150, dan beberapa jenis arduino. Selain dari itu harus menggunakan dynamixel shield.
 > - Servo dynamixel milik KRSTI: protocol version = 1.0
@@ -30,6 +30,6 @@
 
 >[!IMPORTANT]
 > - IDE yang direkomendasikan adalah Arduino IDE.
-> - Jangan lupa download OpenCM 9.04 di Board Manager dan Library [Dynamixel2Arduino] di Library Manager
+> - Jangan lupa download OpenCM 9.04 di Board Manager dan Library ```Dynamixel2Arduino``` di Library Manager
 
 ## **Sekian, _Happy Coding!_** 😀🌻 
