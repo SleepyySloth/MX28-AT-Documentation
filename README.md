@@ -1,2 +1,2 @@
 # MX28-AT-Documentation
-This repository contain about dynamixel MX28-AT servo code.
+Repositori ini berisi kode-kode terkait servo dynamixel MX28-AT
