@@ -2,21 +2,20 @@
 ## **Repositori ini berisi kode-kode terkait servo dynamixel MX28-AT.**
 
 ### Berikut adalah deskripsi masing-masing folder yang tersedia:
-
-> + id
-  > Kode untuk mengganti ID servo seperti yang kita inginkan.
-> + libraries/Dynamixel2Arduino
-  > Library yang wajib untuk diletakkan dalam 1 file source code.
-  > Tersedia juga (dapat di-download langsung) di library manager arduino IDE.
++ id
+  - Kode untuk mengganti ID servo seperti yang kita inginkan.
++ libraries/Dynamixel2Arduino
+  - Library yang wajib untuk diletakkan dalam 1 file source code.
+  - Tersedia juga (dapat di-download langsung) di library manager arduino IDE.
 + led
-  Kode untuk menyala-matikan lampu servo setiap 1 detik sekali.
+  - Kode untuk menyala-matikan lampu servo setiap 1 detik sekali.
 + ping
-  Kode untuk memberikan "ping" ke servo, untuk memastikan komunikasi antara board dan servo sudah sesuai.
+  - Kode untuk memberikan "ping" ke servo, untuk memastikan komunikasi antara board dan servo sudah sesuai.
 + position_mode
-  Kode untuk menggerakan servo sekaligus mengetahui posisinya dalam derajat setiap 1 detik sekali.
+  - Kode untuk menggerakan servo sekaligus mengetahui posisinya dalam derajat setiap 1 detik sekali.
 + scan_dynamixel
-  Kode untuk scanning id servo, baudrate yang bekerja pada servo, protocol version, dan model number pada servo.
-  Fungsinya mirip dengan dynamixel wizard.
+  - Kode untuk scanning id servo, baudrate yang bekerja pada servo, protocol version, dan model number pada servo.
+  - Fungsinya mirip dengan dynamixel wizard.
 
 >[!NOTE]
 > - Board dan pin yang digunakan disesuaikan di bagian #define
