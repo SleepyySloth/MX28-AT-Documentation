@@ -20,8 +20,7 @@
 >[!NOTE]
 > - Board dan pin yang digunakan disesuaikan di bagian ```#if define```
 > - Perhatikan voltage yang digunakan untuk menggerakan servo. Servo bekerja di 12V, sedangkan komunikasi datanya di 5V.
-> - Board yang eligible: openCM 9.04, OpenCR, OpenRB-150, dan beberapa jenis arduino. Selain dari itu harus menggunakan dynamixel shield.
-> - Servo dynamixel milik KRSTI: protocol version = 1.0
+> - Board yang eligible: openCM 9.04, OpenCR, OpenRB-150. Selain dari itu harus menggunakan dynamixel shield.
 > - baudrate biasanya disetel ke 1 Mbps (1000000 bps)
 
 >[!WARNING]
