@@ -3,11 +3,11 @@
 
 ### Berikut adalah deskripsi masing-masing folder yang tersedia:
 
-+ id
-  Kode untuk mengganti ID servo seperti yang kita inginkan.
-+ libraries/Dynamixel2Arduino
-  Library yang wajib untuk diletakkan dalam 1 file source code.
-  Tersedia juga (dapat di-download langsung) di library manager arduino IDE.
+> + id
+  > Kode untuk mengganti ID servo seperti yang kita inginkan.
+> + libraries/Dynamixel2Arduino
+  > Library yang wajib untuk diletakkan dalam 1 file source code.
+  > Tersedia juga (dapat di-download langsung) di library manager arduino IDE.
 + led
   Kode untuk menyala-matikan lampu servo setiap 1 detik sekali.
 + ping
@@ -33,4 +33,4 @@
 > - IDE yang direkomendasikan adalah Arduino IDE.
 > - Jangan lupa download OpenCM 9.04 di Board Manager dan Library <Dynamixel2Arduino> di Library Manager
 
-## **Sekian, _Happy Coding!_ 😀🌻 
+## **Sekian, _Happy Coding!_** 😀🌻 
